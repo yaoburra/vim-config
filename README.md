@@ -2,8 +2,8 @@
 My vim-config project
 
 ## Features
-- Feature 1: Description
-- Feature 2: Description
+- Custom key mappings for efficiency
+- Various plugins for enhanced functionality
 
 ## Usage
 - Instructions on how to use the vim configuration
